@@ -15,8 +15,8 @@ Sobre mi
 ### 💻 [Youtube Channel](https://youtube.com/@nazandev?sub_confirmation=1)
 <!-- YOUTUBE:START -->
 <a href='https://www.youtube.com/watch?v=M7F6tOaEOcA' target='_blank'>
-              <img width='30%' src='https://i.ytimg.com/vi/M7F6tOaEOcA/hqdefault.jpg'/>
-            </a>
+  <img width='30%' src='https://i.ytimg.com/vi/M7F6tOaEOcA/hqdefault.jpg'/>
+</a>
 <!-- YOUTUBE:END -->
 
 ### 📈 [GitHub Stats](#-github-stats)
