@@ -32,9 +32,9 @@ async function getLatestVideos() {
     const thumbnailUrl = item.snippet.thumbnails.high.url;
     const videoUrl = `https://www.youtube.com/watch?v=${videoId}`;
     // return `### [${title}](${videoUrl})\n[![${title}](${thumbnailUrl})](${videoUrl})`;
-    return `<a href='${videoUrl}' target='_blank'>
-              <img width='30%' src='${thumbnailUrl}'/>
-            </a>`;
+    return `<a href='https://www.youtube.com/watch?v=M7F6tOaEOcA' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/M7F6tOaEOcA/hqdefault.jpg'/>
+</a>`;
   });
 
   return videos.join('\n');
